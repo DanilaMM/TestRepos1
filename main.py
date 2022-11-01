@@ -16,7 +16,7 @@ house = building(2000 , "Moscow")
 house2 = building(1999 , "Moscow")
 house3 = building(2001 , "Moscow")
 house3.get_info()
-
+#тестируем
 
 
 
